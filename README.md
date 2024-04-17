@@ -8,7 +8,7 @@
 - 👋 Myron Odingo (PhD MPharm)
 - 👀 Trying to save the world using Data Science and Machine learning to improve healthcare access and outcomes for everyone! 
 - 🌱 I’m currently improving my knowledge on supervised and unsupervised ML models. 
-- 💞️ I’m looking to collaborate on health data science projects, healthcare financing and health economic modelling. (Interested in most thing data science tbh!) 
+- 💞️ I’m looking to collaborate on health data science projects, healthcare financing and health economic modelling. (Interested in most things data science tbh!) 
 - 📫 How to reach me ... probably LinkedIn. 
 
 ### Connect with me:
